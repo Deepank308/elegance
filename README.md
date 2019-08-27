@@ -1,6 +1,6 @@
 # Elegance
 
-Elegance is the template for my personal website https://cse.iitkgp.ac.in/~ayushtiwari
+Elegance is a personal portfolio page template. See [demo](https://ayushtiwari.github.io/elegance).
 
 ## Getting Started
 
